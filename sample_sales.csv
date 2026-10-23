@@ -1,0 +1,13 @@
+Order ID,Customer Name,Region,Product,Quantity,Unit Price,Order Date,Payment Status
+ORD-1001,  Asha Rao ,South,Notebook,3.0,45.0,2026-09-01,Paid
+ORD-1002,RAVI KUMAR,south ,Pen Set,2.0,120.0,2026-09-02,Pending
+ORD-1003,Meera N,North,Desk Lamp,1.0,850.0,2026-09-03,Paid
+ORD-1004,  Asha Rao ,South,Notebook,3.0,45.0,2026-09-01,Paid
+ORD-1005,Kiran S,,Pen Set,4.0,,2026-09-05,Paid
+ORD-1006,sneha patil,West,Water Bottle,,250.0,2026-09-06,paid
+ORD-1007,Arjun M,East,Backpack,1.0,1299.0,2026-09-07,Paid
+ORD-1008,  MEERA N ,North,Desk Lamp,2.0,850.0,2026-09-08,Pending
+ORD-1009,Dev Shah,South,Notebook,5.0,45.0,2026-09-09,
+ORD-1010,Priya D,west,Water Bottle,2.0,250.0,2026-09-10,Paid
+ORD-1011,Nikhil P,East,Backpack,1.0,1299.0,2026-09-11,Paid
+ORD-1012,Farah A,South,Pen Set,3.0,120.0,2026-09-12,paid
